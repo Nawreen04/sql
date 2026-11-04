@@ -208,6 +208,8 @@ Link if you encounter a paywall: https://archive.is/srKHV or https://web.archive
 Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
 
 
-```
-Your thoughts...
-```
+Qadri’s article, “When Databases Get to Define Family,” made me think about how databases reflect assumptions about people. Her discussion of Pakistan’s identification system shows how expectations about family relationships can become technical requirements that affect access to essential services. Although the consequences are different, this raised questions for me about how educational data systems represent students. :chatgpt-content-reference{index="0"}
+
+As a college instructor, I use SLATE in my teaching. It helps organize course materials, assignments, and grades. However, I have encountered a situation where a student’s recorded online activity did not reflect their understanding or effort. This makes me cautious about treating what a platform records as a complete picture of learning. For me, the values involved include efficiency, accountability, and measurability. Online activity provides information that is easy to track and compare. However, when we use that information to judge engagement, we risk assuming that learning must leave a visible digital record. A student might download materials and study offline, discuss ideas with classmates, or spend time thinking through a difficult concept. These are possible forms of engagement that activity records may not capture.
+
+There is also a question of fairness. Students have different responsibilities, resources, and ways of learning. Work schedules, caregiving, and access to technology can influence how they use a platform. Applying the same interpretation to everyone’s activity may appear consistent while overlooking these differences. I do not think this means that SLATE’s records are useless. They can help identify situations that need attention. However, I believe they should prompt a conversation rather than determine a judgment. As an instructor, I need to consider students’ work and their explanations alongside the available data. Fairness requires asking what a record tells me, what it leaves out, and whose learning might become less visible because of those omissions.
